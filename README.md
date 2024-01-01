@@ -16,7 +16,7 @@
 
 1. **Clone the Repository:**
     ```bash
-    git clone [repository-url]
+    git clone https://github.com/Mededdahby/Mail-box.git
     cd MailBox-Java-Project
     ```
 
