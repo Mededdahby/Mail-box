@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44a4a147-3397-4c44-b1e0-0108fc52c467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoitDialog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClientSide/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClientSide/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClientSide/Personne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServerSide/ClientImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServerSide/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServerSide/Gestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServerSide/MessageImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServerSide/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServerSide/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerSide/DBConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +65,7 @@
       <recent name="C:\Users\Med-0X\Desktop\ISIL\ISIL_JAVA\BoitDialog\src\ServerSide" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager">
     <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClientSide.Client" />
       <module name="BoitDialog" />
@@ -153,7 +141,10 @@
       <workItem from="1703501315271" duration="351000" />
       <workItem from="1703773272006" duration="11000" />
       <workItem from="1703791329144" duration="347000" />
-      <workItem from="1704128783783" duration="404000" />
+      <workItem from="1704128783783" duration="1440000" />
+      <workItem from="1704880287124" duration="738000" />
+      <workItem from="1705503009347" duration="32000" />
+      <workItem from="1706546370408" duration="304000" />
     </task>
     <servers />
   </component>

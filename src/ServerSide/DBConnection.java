@@ -13,6 +13,7 @@ public class DBConnection {
         /* Context context = new InitialContext();
             DataSource dataSource = (DataSource) context.lookup("com.mysql.cj.jdbc.Driver");
             conn = dataSource.getConnection("jdbc:mysql://localhost/Cabinier","root", ""));*/
+
             Class.forName("com.mysql.cj.jdbc.Driver");
             conn = DriverManager.getConnection("jdbc:mysql://localhost/BoitDialog", "root", "");
             System.out.println("Connected !");

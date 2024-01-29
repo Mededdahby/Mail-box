@@ -5,7 +5,6 @@
 ## Features
 
 - **User Authentication:** Secure login system for user authentication.
-  
 - **Email Management:** Access and organize emails through an intuitive client-side interface.
 
 - **Real-time Updates:** Utilizes Socket for real-time communication with the server.
@@ -15,42 +14,53 @@
 ## Installation
 
 1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/Mededdahby/Mail-box.git
-    cd MailBox-Java-Project
-    ```
+
+   ```bash
+   git clone https://github.com/Mededdahby/Mail-box.git
+   cd MailBox-Java-Project
+   ```
 
 2. **Database Setup:**
-    - Set up a MySQL database and configure the connection details in `src/main/resources/application.properties`.
+
+   - Set up a MySQL database and configure the connection details in `src/main/resources/application.properties`.
 
 3. **Run the Server:**
-    ```bash
-    java -jar server.jar
-    ```
+
+   ```bash
+   java -jar server.jar
+   ```
 
 4. **Run the Client:**
-    ```bash
-    java -jar client.jar
-    ```
+   ```bash
+   java -jar client.jar
+   ```
 
 ## Usage
 
 1. **User Authentication:**
+
    - Log in securely with your credentials.
 
 2. **Mailbox Interface:**
+
    - Explore and manage your emails using the intuitive Swing-based interface.
 
 3. **Real-time Updates:**
    - Experience real-time communication and updates via Socket integration.
 
-## Contributing
+## Screenshots
 
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. You can also open issues for bug reports or feature requests.
+| About                           | Login                           |
+| ------------------------------- | ------------------------------- |
+| ![About](Screenshots/about.png) | ![Login](Screenshots/login.png) |
+
+| Register                              | Add Mail                         |
+| ------------------------------------- | -------------------------------- |
+| ![Register](Screenshots/register.png) | ![Add Mail](Screenshots/add.png) |
 
 ## License
 
-© MedoxEDDAHBY
+© med eddahby
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
